@@ -10,7 +10,8 @@ require_once 'header.php';
 ?>
   <div class="container">
       <div class="banner">
-       <?php echo $imgurl.$page['banner']?>
+             <img class="img-responsive" src="<?php echo $imgurl.$page['banner']?>"/> 
+
     </div>
     
     <div id="PageBody">

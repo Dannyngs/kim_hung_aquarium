@@ -1,2 +1,0 @@
-<?php exit; ?>
-{"ids":["name","desc","imgurl","category_id","sort"],"table":{"crudTitle":"product manager","crudRowsPerPage":"20"},"filter":{"list":["id","name","desc","imgurl","category_id","sort"],"actived":["id","name","desc","imgurl","category_id"],"atrr":{"id":{"alias":"id"}}},"column":{"list":["id","name","desc","imgurl","category_id","sort"],"actived":["id","name","desc","imgurl","category_id","sort"],"atrr":{"id":{"alias":"id"}}},"frm_type":"2"}

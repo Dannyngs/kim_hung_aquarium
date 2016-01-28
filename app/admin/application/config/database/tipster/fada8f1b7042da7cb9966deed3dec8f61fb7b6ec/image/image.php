@@ -1,2 +1,0 @@
-<?php exit; ?>
-{"ids":["path","date"],"table":{"crudTitle":"image manager","crudRowsPerPage":"20"},"filter":{"list":["id","path","date"],"atrr":{"id":{"alias":"id"}},"actived":["id","path","date"]},"column":{"list":["id","path","date"],"atrr":{"id":{"alias":"id"}},"actived":["id","path","date"]},"frm_type":"2"}

@@ -1,2 +1,0 @@
-<?php exit; ?>
-{"ids":["url","title","type"],"table":{"crudTitle":"menu manager","crudRowsPerPage":"20"},"filter":{"list":["id","title","url","type"],"actived":["id","title","url","type"],"atrr":{"id":{"alias":"id"}}},"column":{"list":["id","title","url","type"],"actived":["id","title","url","type"],"atrr":{"id":{"alias":"id"}}},"frm_type":"2"}

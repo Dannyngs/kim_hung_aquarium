@@ -1,2 +1,0 @@
-<?php exit; ?>
-{"ids":["site_url","site_title","home_title","home_content","copyright","number"],"table":{"crudTitle":"system manager","crudRowsPerPage":"20"},"filter":{"list":["id","number","copyright","home_title","home_content","site_title","site_url"],"atrr":{"id":{"alias":"id"}}},"column":{"list":["id","number","copyright","home_title","home_content","site_title","site_url"],"actived":["number","copyright","home_title","home_content","site_title","site_url"],"atrr":{"id":{"alias":"id"}}},"frm_type":"2"}

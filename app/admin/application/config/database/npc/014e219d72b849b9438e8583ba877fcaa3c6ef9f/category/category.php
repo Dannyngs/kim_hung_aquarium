@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"ids":["name","imgurl"],"table":{"crudTitle":"category manager","crudRowsPerPage":"20"},"filter":{"list":["id","name","imgurl"],"atrr":{"id":{"alias":"id"}},"actived":["id","name","imgurl"]},"column":{"list":["id","name","imgurl"],"atrr":{"id":{"alias":"id"}},"actived":["id","name","imgurl"]},"frm_type":"2"}

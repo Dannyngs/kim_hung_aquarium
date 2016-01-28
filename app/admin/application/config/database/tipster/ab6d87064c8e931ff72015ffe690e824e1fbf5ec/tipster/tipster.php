@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"ids":["name"],"table":{"crudTitle":"tipster manager","crudRowsPerPage":"20"},"filter":{"list":["id","name","color","win","loss","draw"],"atrr":{"name":{"alias":"\u838a\u5bb6"},"id":{"alias":"id"}},"actived":["name"]},"column":{"list":["id","name","color","win","loss","draw"],"atrr":{"name":{"alias":"\u838a\u5bb6"},"id":{"alias":"id"}},"actived":["name"]},"frm_type":"2"}

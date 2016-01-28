@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"field":"result","label":"\u8cfd \u679c","type":"select","options":["Win","Loss","Draw"],"type_options":{"size":"210","width":"300","height":"100","thumbnail":"mini"},"validation":"","list_choose":"default"}

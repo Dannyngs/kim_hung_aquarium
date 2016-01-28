@@ -22,7 +22,7 @@ require_once 'header.php';
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="img-responsive" src="_/img/banner1.jpg"/>
+      <img class="img-responsive" src="_/img/banner.jpg"/>
      
     </div>
     <div class="item">

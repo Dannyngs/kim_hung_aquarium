@@ -15,8 +15,7 @@ require_once 'header.php';
     
     <div id="PageBody">
       <div class="row showc aboutd">
-      <h2>     <?php echo $page['title']?>
-</h2>
+      
   <div style="padding:50px;line-height:30px;">  <?php echo $page['content']?> </div>
      
         </div>

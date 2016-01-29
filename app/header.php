@@ -16,7 +16,7 @@
         <script src="_/js/lib/modernizr/modernizr.js"></script>
 
     </head>
-    <body style="font-family:'微軟正黑體';">
+    <body style="font-family:'微軟正黑體';color:black;">
         <header id="SiteHeader">
       <div class="container">
           <div class="top-line">

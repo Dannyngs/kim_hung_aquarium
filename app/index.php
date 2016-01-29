@@ -62,7 +62,7 @@ require_once 'header.php';
         </a>    
       
       <div class="caption text-center">
-        <h3><?php echo $show['title'];?></h3>
+        <h3 class="hometitle"><?php echo $show['title'];?></h3>
         
         <p><a href="<?php echo $show['link'];?>" class="btn btn-primary cat-but" role="button">READ MORE</a></p>
     

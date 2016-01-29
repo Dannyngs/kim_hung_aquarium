@@ -40,9 +40,9 @@ require_once 'header.php';
         
 <div class="col-md-4 col-md-offset-1">
     
- 
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.8190829230048!2d114.16750771492734!3d22.32268094772317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400c84c46944f%3A0xc8c9cef078a1785a!2z5pe66KeS6YCa6I-c6KGXMTgxLTE4N-iZn-amruiLseaokw!5e0!3m2!1szh-TW!2shk!4v1454061304376" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
  						
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.8971309974586!2d114.168561114595!3d22.31972988531351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400c62b3bc7a9%3A0xe900b58ebc0d98aa!2z5YWI6YGU5buj5aC0!5e0!3m2!1szh-TW!2shk!4v1449732335230" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+    
 </div>
         
        
